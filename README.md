@@ -1,5 +1,18 @@
 # tesla-website-clone
 
+## Infos
+
+- This is a copy of Tesla website by following the "Clever Programmer" tutorial.
+
+- At first, the idea is to make it in order to learn React. So this is just to have some fun and make something beautiful ;)
+
+
+## Technologies used
+
+1. HTML5 / CSS
+1. JavaScript with ReactJS Framework
+
+
 ## Installation
 
 1. First, make sure the NodeJs is installed on your computer
