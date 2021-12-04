@@ -13,10 +13,10 @@
 1. JavaScript with ReactJS Framework
 
 Also in this project are used:
-1. React Redux
-2. Styled-Components
-3. Material Icons
-
+- React Redux
+- Styled-Components
+- Material Icons
+- React Reveal (for annimations)
 
 ## Installation
 
