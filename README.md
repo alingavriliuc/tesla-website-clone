@@ -12,6 +12,11 @@
 1. HTML5 / CSS
 1. JavaScript with ReactJS Framework
 
+Also in this project are used:
+1. React Redux
+2. Styled-Components
+3. Material Icons
+
 
 ## Installation
 
